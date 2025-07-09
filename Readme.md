@@ -51,6 +51,7 @@ Pcb:
 https://github.com/RSZ-Nld/YoRadio/blob/main/pcb.zip
 
 Pcb-2:
+https://github.com/RSZ-Nld/YoRadio/blob/main/Pcb-2.zip
 
 
 
