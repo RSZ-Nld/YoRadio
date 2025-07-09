@@ -2,7 +2,7 @@ Made a pcb for yoRadio / Maestro Internet radio.
 
 Can be used with a Ssd1322 or 9341 Display.
 
-Audio can be used a VS1053 or a I2C adaptor.
+Audio can be used a VS1053 or a I2C  PCM5102a adaptor.
 
 Ir led can also be added.
 
