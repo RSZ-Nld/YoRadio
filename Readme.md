@@ -22,6 +22,10 @@ Working radio with 2x encoder Ir Led and Ssd1322 display and VS1053
 
 ![Photo 5](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709.jpg)
 
+Parts on the pcb:
+
+![Photo 7](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709_153609.jpg)
+
 
 
 
