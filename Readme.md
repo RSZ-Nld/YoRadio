@@ -29,6 +29,8 @@ Front:
 
 Gerber files:
 
+https://github.com/RSZ-Nld/YoRadio/blob/main/pcb.zip
+
 
 
 
