@@ -6,7 +6,7 @@ Audio can be used a VS1053 or a I2C adaptor.
 
 Ir led can also be added.
 
-And 2 encoders, one for Volume and onme for the stations.
+And 2 encoders, one for Volume and one for the stations.
 
 
 ### Photos
