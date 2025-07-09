@@ -48,9 +48,11 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 Gerber files:
 
 Pcb:
+
 https://github.com/RSZ-Nld/YoRadio/blob/main/pcb.zip
 
 Pcb-2:
+
 https://github.com/RSZ-Nld/YoRadio/blob/main/Pcb-2.zip
 
 
