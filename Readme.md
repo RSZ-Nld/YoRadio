@@ -26,7 +26,7 @@ Parts on the pcb:
 
 ![Photo 7](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709_153609.jpg)
 
-Pcb-2 is for different Pcm5102a and can be used also (pins are different).
+Pcb-2 is for a different Pcm5102a and can be used also (pins are different).
 Is not yet tested by me!
 
 ![Photo 8](https://github.com/RSZ-Nld/YoRadio/blob/main/Front-2.JPG)
