@@ -26,7 +26,7 @@ Parts on the pcb:
 
 ![Photo 7](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709_153609.jpg)
 
-Pcb-2 is for different Pcm5102a and can be used also.
+Pcb-2 is for different Pcm5102a and can be used also (pins are different).
 
 ![Photo 8](https://github.com/RSZ-Nld/YoRadio/blob/main/Front-2.JPG)
 
@@ -47,7 +47,11 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 
 Gerber files:
 
+Pcb:
 https://github.com/RSZ-Nld/YoRadio/blob/main/pcb.zip
+
+Pcb-2:
+
 
 
 
