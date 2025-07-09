@@ -25,8 +25,12 @@ Working radio with 2x encoder Ir Led and Ssd1322 display and VS1053
 Front:
 
 
-Flash files:
+Flash files  V6 Maestro:
 
+I2C audio, Display Ssd1322, 2x encoder and Ir led:
+https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BI2C_Enc_IR.zip
+
+VS1053 audio, Display Ssd1322, 2x encoder and Ir Led
 https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 
 
