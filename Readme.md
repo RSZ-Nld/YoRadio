@@ -34,7 +34,7 @@ Is not yet tested by me!
 yoRadio V0.9.428
 
 Pcb Back
-![Photo 19]()
+![Photo 19](https://github.com/RSZ-Nld/YoRadio/blob/main/9341%20%205102a.jpg)
 
 
 
