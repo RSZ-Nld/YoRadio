@@ -31,6 +31,11 @@ Is not yet tested by me!
 
 ![Photo 8](https://github.com/RSZ-Nld/YoRadio/blob/main/Front-2.JPG)
 
+yoRadio V0.9.428
+
+Pcb Back
+![Photo 19]()
+
 
 
 
