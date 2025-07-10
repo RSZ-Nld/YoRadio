@@ -59,7 +59,7 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 
 
 
-YoRadio V9.28.  Flash files
+YoRadio V9.28.  Flash files:
 
 VS1053 audio, Display 9341 (no Touch), 2x encoder and Ir Led:
 
