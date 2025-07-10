@@ -48,6 +48,8 @@ VS1053 audio, Display 9341 (no Touch), 2x encoder and Ir Led:
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209341_VS1053_Ir_2x-Enc.zip
 
+I2C audio, Display 9341 ()no Touch), 2x encoder and Ir led:
+
 
 
 Gerber files:
