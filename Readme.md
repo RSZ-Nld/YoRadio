@@ -44,6 +44,10 @@ VS1053 audio, Display Ssd1322, 2x encoder and Ir Led:
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 
+VS1053 audio, Display 9341, 2x encoder and Ir Led:
+
+https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209341_VS1053_Ir_2x-Enc.zip
+
 
 
 Gerber files:
