@@ -59,7 +59,7 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.515--9341-1053-Ir-2x-Enc.zip
 
 I2C audio, Display 9341 (no Touch), 2x encoder and Ir led, with the www files:
 
-
+https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.515--9341-5102-Ir-2x-Enc.zip
 
 
 
