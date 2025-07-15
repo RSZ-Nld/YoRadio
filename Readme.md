@@ -53,13 +53,13 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 
 YoRadio V0.9.512  Flash files:
 
-VS1053 audio, Display 9341 (no Touch), 2x encoder and Ir Led:
+VS1053 audio, Display 9341 (no Touch), 2x encoder and Ir Led with the www files:
 
-https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209341_VS1053_Ir_2x-Enc.zip
+https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.515--9341-1053-Ir-2x-Enc.zip
 
-I2C audio, Display 9341 (no Touch), 2x encoder and Ir led:
+I2C audio, Display 9341 (no Touch), 2x encoder and Ir led, with the www files:
 
-https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209341_Pcm5102_Ir_2x-Enc.zip
+
 
 
 
