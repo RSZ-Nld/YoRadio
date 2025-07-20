@@ -1,6 +1,6 @@
 Made a pcb for yoRadio / Maestro Internet radio.  I also included Flash files.
 
-A 360 Mini convertor is used for 12V to 5V (adjust it on 5V before turn on) on the pcb.
+A Mini convertor is used for 12V to 5V (adjust it on 5V before turn on) on the pcb.
 
 Can be used with a Ssd1322 or 9341 Display.
 
