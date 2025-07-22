@@ -69,6 +69,8 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.533--ST7789-1053-Ir-2x-Enc.zip
 
 PCM5102 audio, Display 7789 (no Touch), 2x encoder and Ir Led with the www files:
 
+https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.533--ST7789-5102-Ir-2x-Enc.zip
+
 
 
 
