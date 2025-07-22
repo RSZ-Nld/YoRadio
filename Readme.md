@@ -41,9 +41,11 @@ Is not yet tested by me!
 
 Flash files  V6 Maestro:
 
+
 I2C audio, Display Ssd1322, 2x encoder and Ir led:
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BI2C_Enc_IR.zip
+
 
 VS1053 audio, Display Ssd1322, 2x encoder and Ir Led:
 
@@ -53,9 +55,11 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/Flash_SSD1322%2BVS1053_Enc_IR.zip
 
 YoRadio V0.9.515  Flash files:
 
+
 VS1053 audio, Display 9341 (no Touch), 2x encoder and Ir Led with the www files:
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.515--9341-1053-Ir-2x-Enc.zip
+
 
 I2C audio, Display 9341 (no Touch), 2x encoder and Ir led, with the www files:
 
@@ -63,11 +67,14 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.515--9341-5102-Ir-2x-Enc.zip
 
 
 
+
 YoRadio V0.9.533 Flash Files 
+
 
 VS1053 audio, Display 7789 (no Touch), 2x encoder and Ir Led with the www files:
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.533--ST7789-1053-Ir-2x-Enc.zip
+
 
 PCM5102 audio, Display 7789 (no Touch), 2x encoder and Ir Led with the www files:
 
