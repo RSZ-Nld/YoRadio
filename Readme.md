@@ -29,7 +29,7 @@ yoRadio V0.9.515
 
 ![Photo 19](https://github.com/RSZ-Nld/YoRadio/blob/main/9341%20%205102a.jpg)
 
-yoRadio Andrew2  
+yoRadio Andrew2  3.5 or 4 Inch display 9488
 
 ![Photo 23](https://github.com/RSZ-Nld/YoRadio/blob/main/20250730_185002.jpg)
 
