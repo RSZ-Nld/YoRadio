@@ -88,6 +88,10 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/V0.9.533--ST7789-5102-Ir-2x-Enc.zip
 
 yoRadio V.0.9.553 Andrew V2 flash files
 
+PCM5102 audio, Display 9488 (no Touch), 2x encoder and Ir Led with the www files:
+
+https://github.com/RSZ-Nld/YoRadio/blob/main/9488_5102_IR_2x-Enc.zip
+
 
 
 
