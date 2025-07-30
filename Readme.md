@@ -29,6 +29,11 @@ yoRadio V0.9.515
 
 ![Photo 19](https://github.com/RSZ-Nld/YoRadio/blob/main/9341%20%205102a.jpg)
 
+yoRadio Andrew2  
+
+![Photo 23](https://github.com/RSZ-Nld/YoRadio/blob/main/20250730_185002.jpg)
+
+
 Parts on the pcb:
 
 ![Photo 7](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709_153609.jpg)
