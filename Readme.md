@@ -102,7 +102,7 @@ Gerber files:
 
 Pcb:
 
-https://github.com/RSZ-Nld/YoRadio/blob/main/pcb.zip
+https://github.com/RSZ-Nld/YoRadio/blob/main/Pcb.zip
 
 
 Pcb-2 (not tested by me):
