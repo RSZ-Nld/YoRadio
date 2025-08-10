@@ -36,7 +36,7 @@ yoRadio V.0.9.553 Andrew V2        with 3.5 or 4 Inch display 9488 and PCM5102
 
 Parts on the pcb:
 
-![Photo 7](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709_153609.jpg)
+![Photo 7](https://github.com/RSZ-Nld/YoRadio/blob/main/20250810_155348.jpg)
 
 Pcb-2 is for a different Pcm5102a and can be used also (pins are different).
 Is not yet tested by me!
