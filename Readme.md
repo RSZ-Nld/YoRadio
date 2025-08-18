@@ -1,5 +1,7 @@
 Made a pcb for yoRadio / Maestro Internet radio.  I also included Flash files.
 
+18-08-25 Now Pcb V2.1 with Touch pin 13 disconnect or not and add a 5V input, no use then for 12V to 5V convertor.
+
 A Mini convertor is used for 12V to 5V (adjust it on 5V before turn on or use a fixed one for 5V) on the pcb.
 
 Can be used with a Ssd1322 , 9341, 9488 or 7789 Display.
