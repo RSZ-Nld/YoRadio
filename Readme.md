@@ -34,7 +34,7 @@ yoRadio V0.9.515
 
 yoRadio V.0.9.553 Andrew V2        with 3.5 or 4 Inch display 9488 and PCM5102
 
-![Photo 23](https://github.com/RSZ-Nld/YoRadio/blob/main/20250730_185002.jpg)
+![Photo 23](https://github.com/RSZ-Nld/YoRadio/blob/main/20250822_102834.jpg)
 
 
 Parts on the pcb:
