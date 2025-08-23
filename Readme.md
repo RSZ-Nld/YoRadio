@@ -25,6 +25,8 @@ Pcb Back
 
 Working radio with 2x encoder Ir Led and Ssd1322 display and VS1053
 
+![Photo 4](https://github.com/RSZ-Nld/YoRadio/blob/main/20250823_171351.jpg)
+
 ![Photo 5](https://github.com/RSZ-Nld/YoRadio/blob/main/20250709.jpg)
 
 yoRadio V0.9.515
