@@ -101,6 +101,10 @@ PCM5102 audio, Display 9488 (no Touch), 2x encoder and Ir Led with the www files
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/9488_5102_IR_2x-Enc.zip
 
+yoRadio V0.9.702  Display 9488 (no Touch), PCM5102 2x encoder and Ir Led with the www files:
+
+
+
 
 
 
