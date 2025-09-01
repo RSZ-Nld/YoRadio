@@ -103,12 +103,7 @@ https://github.com/RSZ-Nld/YoRadio/blob/main/9488_5102_IR_2x-Enc.zip
 
 yoRadio V0.9.702  Display 9488 (no Touch), PCM5102 2x encoder and Ir Led with the www files:
 
-
-
-
-
-
-
+https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209488%205102%202x%20REnc%20Ir-Audio_Mod%20V0.9.702.zip
 
 
 Gerber files:
