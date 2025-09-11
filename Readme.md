@@ -118,7 +118,7 @@ Pcb:
 https://github.com/RSZ-Nld/YoRadio/blob/main/Pcb.zip
 
 
-Pcb-2 (not tested by me):
+Pcb-2 (Is now tested and works):
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Pcb-2.zip
 
