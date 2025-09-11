@@ -40,7 +40,12 @@ yoRadio V.0.9.553 Andrew V2        with 3.5 or 4 Inch display 9488 and PCM5102
 ![Photo 23](https://github.com/RSZ-Nld/YoRadio/blob/main/20250822_102834.jpg)
 
 And the flash files:
+
 https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209488-Andrew2-0.9.533m.zip
+
+and with Flac V0.9.702-2
+
+https://github.com/RSZ-Nld/YoRadio/blob/main/Flash-yoRadio_andrew_v0.9.702_2.zip
 
 
 Parts on the pcb:
