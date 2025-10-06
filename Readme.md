@@ -4,7 +4,8 @@ Made a pcb for yoRadio / Maestro Internet radio.  I also included Flash files.
 
 Add option for Sd card now.   V2.3
 
-28-09-25 
+28-09-25
+
 Now Pcb V2.2 
 with Touch pin 13 disconnect or not and add a 5V input, no use then for 12V to 5V convertor. 
 And add a 3.3V option for displays that can not use 5V.
