@@ -25,6 +25,10 @@ Pcb Back
 
 ![Photo 10](https://github.com/RSZ-Nld/YoRadio/blob/main/Back.JPG)
 
+And the Gerberfiles V2.3
+
+https://github.com/RSZ-Nld/YoRadio/blob/main/Gerbers%20V2.3%20with%20sd%20card%20option.zip
+
 Working radio with 2x encoder Ir Led and Ssd1322 display and VS1053
 
 ![Photo 4](https://github.com/RSZ-Nld/YoRadio/blob/main/20250823_171351.jpg)
