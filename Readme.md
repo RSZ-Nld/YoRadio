@@ -35,6 +35,10 @@ And the Gerberfiles V2.3
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Gerbers%20V2.3%20with%20sd%20card%20option.zip
 
+And the flash files V7.20   mods by Várai Tamás
+
+https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209488%202x%20enc%20Ir%20sd%20card%205102-V7.20.zip
+
 Working radio with 2x encoder Ir Led and Ssd1322 display and VS1053
 
 ![Photo 4](https://github.com/RSZ-Nld/YoRadio/blob/main/20250823_171351.jpg)
