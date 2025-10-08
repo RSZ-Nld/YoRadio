@@ -35,7 +35,7 @@ And the Gerberfiles V2.3
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Gerbers%20V2.3%20with%20sd%20card%20option.zip
 
-And the flash files V7.20   mods by Várai Tamás
+And the flash files V7.20   mods by Várai Tamás, now with sd card added
 
 https://github.com/RSZ-Nld/YoRadio/blob/main/Flash%209488%202x%20enc%20Ir%20sd%20card%205102-V7.20.zip
 
